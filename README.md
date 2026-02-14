@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/farhaalmalik)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://farhaalmalik.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhaal.malik@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhaaltemur@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/farhaalmalik)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=farhaalmalik&color=brightgreen&style=flat-square)
@@ -193,7 +193,7 @@ Cloud & DevOps
 
 ## 🏆 Featured Projects
 
-### 🤖 [AI-Powered Content Moderation System](https://github.com/farhaalmalik/ai-content-moderator)
+### 🤖 [AI-Powered Content Moderation System](https://github.com/farhaal/ai-content-moderator)
 **Tech Stack:** Python, PyTorch, Transformers, FastAPI, React, Docker, AWS  
 A production-ready content moderation system that automatically detects and filters toxic content, hate speech, and inappropriate images using state-of-the-art NLP and Computer Vision models.
 
@@ -205,7 +205,7 @@ A production-ready content moderation system that automatically detects and filt
 
 ---
 
-### 📊 [Intelligent Sales Forecasting Platform](https://github.com/farhaalmalik/sales-forecasting-ai)
+### 📊 [Intelligent Sales Forecasting Platform](https://github.com/farhaal/sales-forecasting-ai)
 **Tech Stack:** Python, TensorFlow, LSTM, Prophet, Django, PostgreSQL, Redis, Celery  
 An end-to-end forecasting platform that predicts sales trends using ensemble ML models, helping businesses optimize inventory and resource allocation.
 
@@ -217,7 +217,7 @@ An end-to-end forecasting platform that predicts sales trends using ensemble ML 
 
 ---
 
-### 🏥 [Medical Image Analysis System](https://github.com/farhaalmalik/medical-image-ai)
+### 🏥 [Medical Image Analysis System](https://github.com/farhaal/medical-image-ai)
 **Tech Stack:** Python, PyTorch, U-Net, FastAPI, Vue.js, PostgreSQL, Docker  
 An AI-powered diagnostic tool for analyzing medical images (X-rays, CT scans) to assist healthcare professionals in early disease detection.
 
@@ -229,7 +229,7 @@ An AI-powered diagnostic tool for analyzing medical images (X-rays, CT scans) to
 
 ---
 
-### 💬 [Smart Customer Support Chatbot](https://github.com/farhaalmalik/ai-chatbot-support)
+### 💬 [Smart Customer Support Chatbot](https://github.com/farhaal/ai-chatbot-support)
 **Tech Stack:** Python, LangChain, OpenAI GPT, Pinecone, FastAPI, Next.js, WebSocket  
 An intelligent chatbot leveraging large language models and vector databases to provide accurate, context-aware customer support.
 
@@ -241,7 +241,7 @@ An intelligent chatbot leveraging large language models and vector databases to 
 
 ---
 
-### 🌐 [Real-Time Analytics Dashboard](https://github.com/farhaalmalik/realtime-analytics-dashboard)
+### 🌐 [Real-Time Analytics Dashboard](https://github.com/farhaal/realtime-analytics-dashboard)
 **Tech Stack:** React, Node.js, Socket.io, MongoDB, Redis, Kafka, D3.js, Docker  
 A comprehensive analytics platform providing real-time insights with interactive visualizations and custom reporting capabilities.
 
@@ -253,7 +253,7 @@ A comprehensive analytics platform providing real-time insights with interactive
 
 ---
 
-### 🔍 [Semantic Search Engine](https://github.com/farhaalmalik/semantic-search-engine)
+### 🔍 [Semantic Search Engine](https://github.com/farhaal/semantic-search-engine)
 **Tech Stack:** Python, Sentence-Transformers, Elasticsearch, FastAPI, React, Docker  
 A neural search engine using sentence embeddings to deliver semantically relevant results beyond traditional keyword matching.
 
@@ -287,17 +287,6 @@ A neural search engine using sentence embeddings to deliver semantically relevan
 - **Kubernetes Administrator (CKA)**
 - **Deep Learning Specialization** - deeplearning.ai
 - **Full Stack Web Development** - Multiple Platforms
-
----
-
-## 📝 Recent Blog Posts & Articles
-
-<!-- BLOG-POST-LIST:START -->
-- 🔥 [Building Production-Ready ML Pipelines: Best Practices and Lessons Learned](https://blog.farhaalmalik.dev/ml-pipelines)
-- 🚀 [Optimizing Large Language Models for Real-Time Inference](https://blog.farhaalmalik.dev/llm-optimization)
-- 🎯 [Microservices Architecture: From Monolith to Scalable Systems](https://blog.farhaalmalik.dev/microservices)
-- 🤖 [Computer Vision in Production: Challenges and Solutions](https://blog.farhaalmalik.dev/cv-production)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -374,7 +363,7 @@ I'm always excited to collaborate on interesting projects, discuss emerging tech
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/farhaalmalik)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhaal.malik@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhaaltemur@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://farhaalmalik.dev)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/farhaalmalik)
 
@@ -390,7 +379,7 @@ I'm always excited to collaborate on interesting projects, discuss emerging tech
 
 <div align="center">
 
-### ⭐ From [Farhaal Temur Malik](https://github.com/farhaalmalik)
+### ⭐ From [Farhaal Temur Malik](https://github.com/farhaal)
 
 ![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
 ![Built with](https://img.shields.io/badge/Built%20with-Markdown-000000?style=for-the-badge&logo=markdown)
