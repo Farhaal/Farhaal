@@ -92,10 +92,6 @@ Passionate **AI/ML Engineer** and **Full Stack Developer** with **5+ years** of 
 ## 📈 GitHub Statistics
 
 <div align="center">
-  
-![Farhaal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farhaal&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farhaal&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=farhaal&theme=radical&hide_border=true)
 
