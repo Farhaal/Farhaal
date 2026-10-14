@@ -1,154 +1,84 @@
+<div align="center">
+
 # 👋 Hi, I'm Farhaal Temur Malik
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+%7C+5%2B+Years+Experience;Full+Stack+Developer;Cloud+Architecture+Enthusiast;Deep+Learning+Specialist;Building+Intelligent+Systems)](https://git.io/typing-svg)
+**Full-stack web developer** · Computer Science graduate · Gujranwala, Pakistan
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/farhaal)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://farhaalmalik.dev)
+I build web applications with React, TypeScript, Node.js and Python, and I like taking a project from an idea to something people can download and use.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhaal)
+[![Vocravox](https://img.shields.io/badge/Vocravox-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vocravox.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhaaltemur@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/farhaalmalik)
 
-![Profile Views](https://komarev.com/ghpvc/?username=farhaalmalik&color=brightgreen&style=flat-square)
+🎓 *Admitted to the Master's in Web Engineering at Chemnitz University of Technology, Winter 2026/2027*
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🚀 Featured project
 
-Passionate **AI/ML Engineer** and **Full Stack Developer** with **5+ years** of hands-on experience building scalable, intelligent systems. I specialize in developing end-to-end machine learning pipelines, deploying AI models at scale, and creating robust full-stack applications.
+<table>
+<tr>
+<td>
 
-### 🎯 What I Do
+### [Vocravox](https://vocravox.com)
 
-- 🤖 Design and deploy **production-grade ML/DL models** for computer vision, NLP, and predictive analytics
-- 🌐 Build **scalable full-stack applications** using modern frameworks and microservices architecture
-- ☁️ Architect **cloud-native solutions** on AWS, GCP, and Azure
-- 📊 Create **data pipelines** and analytics platforms
-- 🔧 Implement **MLOps practices** for automated model training and deployment
+A free Windows desktop app that turns a voiceover into a video timeline. It transcribes the narration, finds stock footage that fits each line, and exports numbered clips that are ready for an editor. Everything runs on the user's own computer.
 
----
+**Stack:** React · TypeScript · Python · FastAPI · Electron · WebSockets
 
-## 💼 Core Expertise
+**Status:** released in 2026, in active development.
 
-**AI & Machine Learning**
-- Deep Learning (CNNs, Transformers, GANs)
-- Natural Language Processing (LLMs, BERT, GPT)
-- Computer Vision (YOLO, Segmentation, OCR)
-- MLOps & Model Deployment
+[![Download and docs](https://img.shields.io/badge/Download%20%26%20docs-github.com%2FFarhaal%2Fvocravox-6C5CE7?style=flat-square)](https://github.com/Farhaal/vocravox)
 
-**Full Stack Development**
-- Frontend: React, Next.js, Vue.js, TypeScript
-- Backend: Node.js, Python (Django, FastAPI), GraphQL
-- Databases: PostgreSQL, MongoDB, Redis, Vector DBs
+</td>
+</tr>
+</table>
 
-**Cloud & DevOps**
-- AWS, Google Cloud, Azure
-- Docker, Kubernetes, Terraform
-- CI/CD, Monitoring, Infrastructure as Code
+## 🧩 Other work
 
----
+| Project | What it is | Stack |
+|---|---|---|
+| **SkinCare Pro**<br>*Final-year project, group, 2025* | A skincare web platform supervised by Dr. M. Aksam Iftikhar. I built the AI services (skin analysis, a generative "clear-skin" preview and a recommendation chatbot) and served them as APIs for the web app. | YOLOv8 · SAHI · FastAPI · React · Node.js |
+| **Freelance projects**<br>*Since 2024* | 6+ client web applications, including machine-learning models for some of them. | React · Node.js · Express · MongoDB |
+## 🛠️ Tools I use
 
-## 🛠️ Technology Stack
-
-### **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### **AI/ML & Data Science**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### **Backend & Databases**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+## 🎯 Currently
 
----
+- Improving Vocravox: reliability on more computers and better footage matching.
+- Preparing to start my Master's in Germany, with a focus on reliable and secure web systems.
 
-## 📈 GitHub Statistics
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=farhaal&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## 💡 Currently Working On
-
-```python
-class FarhaalMalik:
-    def __init__(self):
-        self.name = "Farhaal Temur Malik"
-        self.role = "AI/ML Engineer & Full Stack Developer"
-        
-    def currently_exploring(self):
-        return [
-            "🔬 Multimodal AI systems and Large Language Models",
-            "🚀 Building scalable MLOps infrastructure",
-            "📚 Contributing to open-source ML projects",
-            "✍️ Writing technical articles on AI/ML"
-        ]
-    
-    def fun_fact(self):
-        return "When I'm not coding, you'll find me exploring new ML papers on arXiv! 📄"
-```
-
----
-
-## 🤝 Open Source & Community
-
-I'm passionate about giving back to the community through contributions to projects like TensorFlow, FastAPI, Hugging Face Transformers, and more.
-
-**Areas of Interest:**
-- 🧠 Large Language Models & Prompt Engineering
-- 🎨 Generative AI & Diffusion Models
-- 🔐 AI Safety & Responsible AI Development
-- ⚡ Real-time ML Systems & MLOps
-
----
-
-## 📫 Let's Connect!
+## 📫 Get in touch
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/farhaal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhaal)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhaaltemur@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://farhaalmalik.dev)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/farhaalmalik)
-
-### 💼 Open to Opportunities
-Full-time positions • Consulting projects • Open source collaborations
-
----
-
-**"Building the future, one algorithm at a time."** 🚀
-
-![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
 
 </div>
