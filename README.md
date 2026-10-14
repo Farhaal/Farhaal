@@ -28,6 +28,8 @@ A free Windows desktop app that turns a voiceover into a video timeline. It tran
 
 **Status:** released in 2026, in active development.
 
+**Public repository:** [github.com/Farhaal/vocravox](https://github.com/Farhaal/vocravox) has the Windows installer, release notes, documentation and a short write-up of how the app is built.
+
 **Source code:** private. If you would like to collaborate or review the code, email me at [farhaaltemur@gmail.com](mailto:farhaaltemur@gmail.com) and I will share access.
 
 [![Download and docs](https://img.shields.io/badge/Download%20%26%20docs-github.com%2FFarhaal%2Fvocravox-6C5CE7?style=flat-square)](https://github.com/Farhaal/vocravox)
