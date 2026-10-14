@@ -82,11 +82,4 @@ A free Windows desktop app that turns a voiceover into a video timeline. It tran
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhaal)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhaaltemur@gmail.com)
 
-</div>
-## 📈 GitHub activity
 
-<div align="center">
-
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Farhaal&hide_border=true)](https://github.com/Farhaal)
-
-</div>
