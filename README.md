@@ -10,8 +10,6 @@ I build web applications with React, TypeScript, Node.js and Python, and I like 
 [![Vocravox](https://img.shields.io/badge/Vocravox-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vocravox.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhaaltemur@gmail.com)
 
-🎓 *Admitted to the Master's in Web Engineering at Chemnitz University of Technology, Winter 2026/2027*
-
 </div>
 
 ---
