@@ -87,11 +87,6 @@ A free Windows desktop app that turns a voiceover into a video timeline. It tran
 
 <div align="center">
 
-[![GitHub streak](https://streak-stats.demolab.com?user=Farhaal&hide_border=true)](https://github.com/Farhaal)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Farhaal&show_icons=true&hide_border=true)](https://github.com/Farhaal)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Farhaal&layout=compact&hide_border=true)](https://github.com/Farhaal)
-
 [![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Farhaal&hide_border=true)](https://github.com/Farhaal)
 
 </div>
