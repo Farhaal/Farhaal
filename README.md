@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Farhaal Temur Malik
 
-**Full-stack web developer** · Computer Science graduate · Gujranwala, Pakistan
+**Full-stack web developer** · Computer Science graduate · 
 
 I build web applications with React, TypeScript, Node.js and Python, and I like taking a project from an idea to something people can download and use.
 
